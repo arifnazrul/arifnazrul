@@ -3,7 +3,7 @@
 
 #### Currently pursuing my Master degree in Informatik at Technische Universität Kaiserslautern
 
-#### working @ ([ZEW](https://www.zew.de/)) as Graduate Research Assistant.
+#### working @ ([Transporeon](https://www.transporeon.com/en)) as Software Developer
 
 #### Projects I'm working on: ([git repo](https://github.com/arifnazrul))
 
